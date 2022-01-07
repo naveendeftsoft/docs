@@ -1,5 +1,6 @@
 +++
-title = "KubeOne"
+title = "Know All About KubeOne | Kubermatic Docs"
+Meta Description = "Kubermatic KubeOne automates cluster operations on all your cloud, on-premises, edge, and IoT environments. Check out incredible features of KubeOne."
 date = 2021-02-10T09:00:00+02:00
 +++
 
